@@ -37,7 +37,7 @@
                             Nama
                           </th>
                           <th>
-                            NPM
+                            NIM
                           </th>
                           <th>
                             Prodi
